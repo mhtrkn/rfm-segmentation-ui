@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "recency": 30,
+    "frequency": 2,
+    "monetary": 40775
+  },
+  {
+    "id": 2,
+    "recency": 93,
+    "frequency": 50,
+    "monetary": 11408
+  },
+  {
+    "id": 3,
+    "recency": 38,
+    "frequency": 7,
+    "monetary": 44792
+  },
+  {
+    "id": 4,
+    "recency": 47,
+    "frequency": 2,
+    "monetary": 21960
+  },
+  {
+    "id": 5,
+    "recency": 171,
+    "frequency": 50,
+    "monetary": 16846
+  },
+  {
+    "id": 6,
+    "recency": 239,
+    "frequency": 24,
+    "monetary": 39117
+  },
+  {
+    "id": 7,
+    "recency": 336,
+    "frequency": 22,
+    "monetary": 49364
+  },
+  {
+    "id": 8,
+    "recency": 330,
+    "frequency": 11,
+    "monetary": 16239
+  },
+  {
+    "id": 9,
+    "recency": 208,
+    "frequency": 7,
+    "monetary": 20416
+  },
+  {
+    "id": 10,
+    "recency": 320,
+    "frequency": 1,
+    "monetary": 4533
+  },
+  {
+    "id": 11,
+    "recency": 287,
+    "frequency": 43,
+    "monetary": 35411
+  },
+  {
+    "id": 12,
+    "recency": 84,
+    "frequency": 42,
+    "monetary": 27660
+  },
+  {
+    "id": 13,
+    "recency": 36,
+    "frequency": 18,
+    "monetary": 34941
+  },
+  {
+    "id": 14,
+    "recency": 14,
+    "frequency": 47,
+    "monetary": 43614
+  },
+  {
+    "id": 15,
+    "recency": 20,
+    "frequency": 5,
+    "monetary": 12550
+  },
+  {
+    "id": 16,
+    "recency": 229,
+    "frequency": 6,
+    "monetary": 15088
+  },
+  {
+    "id": 17,
+    "recency": 343,
+    "frequency": 14,
+    "monetary": 45540
+  },
+  {
+    "id": 18,
+    "recency": 341,
+    "frequency": 42,
+    "monetary": 266
+  },
+  {
+    "id": 19,
+    "recency": 113,
+    "frequency": 24,
+    "monetary": 17292
+  },
+  {
+    "id": 20,
+    "recency": 130,
+    "frequency": 37,
+    "monetary": 11231
+  },
+  {
+    "id": 21,
+    "recency": 96,
+    "frequency": 47,
+    "monetary": 22623
+  },
+  {
+    "id": 22,
+    "recency": 271,
+    "frequency": 2,
+    "monetary": 20903
+  },
+  {
+    "id": 23,
+    "recency": 286,
+    "frequency": 27,
+    "monetary": 40342
+  },
+  {
+    "id": 24,
+    "recency": 68,
+    "frequency": 9,
+    "monetary": 45075
+  },
+  {
+    "id": 25,
+    "recency": 83,
+    "frequency": 32,
+    "monetary": 4169
+  },
+  {
+    "id": 26,
+    "recency": 238,
+    "frequency": 38,
+    "monetary": 20369
+  },
+  {
+    "id": 27,
+    "recency": 216,
+    "frequency": 24,
+    "monetary": 19096
+  },
+  {
+    "id": 28,
+    "recency": 304,
+    "frequency": 19,
+    "monetary": 5245
+  },
+  {
+    "id": 29,
+    "recency": 111,
+    "frequency": 48,
+    "monetary": 9915
+  },
+  {
+    "id": 30,
+    "recency": 340,
+    "frequency": 25,
+    "monetary": 6278
+  },
+  {
+    "id": 31,
+    "recency": 161,
+    "frequency": 24,
+    "monetary": 23450
+  },
+  {
+    "id": 32,
+    "recency": 268,
+    "frequency": 48,
+    "monetary": 43432
+  },
+  {
+    "id": 33,
+    "recency": 272,
+    "frequency": 29,
+    "monetary": 2805
+  },
+  {
+    "id": 34,
+    "recency": 268,
+    "frequency": 26,
+    "monetary": 34817
+  },
+  {
+    "id": 35,
+    "recency": 318,
+    "frequency": 44,
+    "monetary": 24718
+  },
+  {
+    "id": 36,
+    "recency": 117,
+    "frequency": 36,
+    "monetary": 22301
+  },
+  {
+    "id": 37,
+    "recency": 97,
+    "frequency": 32,
+    "monetary": 28506
+  },
+  {
+    "id": 38,
+    "recency": 253,
+    "frequency": 17,
+    "monetary": 24543
+  },
+  {
+    "id": 39,
+    "recency": 274,
+    "frequency": 18,
+    "monetary": 1671
+  },
+  {
+    "id": 40,
+    "recency": 80,
+    "frequency": 13,
+    "monetary": 30794
+  },
+  {
+    "id": 41,
+    "recency": 152,
+    "frequency": 47,
+    "monetary": 33418
+  },
+  {
+    "id": 42,
+    "recency": 31,
+    "frequency": 33,
+    "monetary": 19867
+  },
+  {
+    "id": 43,
+    "recency": 98,
+    "frequency": 19,
+    "monetary": 30635
+  },
+  {
+    "id": 44,
+    "recency": 217,
+    "frequency": 49,
+    "monetary": 33052
+  },
+  {
+    "id": 45,
+    "recency": 4,
+    "frequency": 13,
+    "monetary": 29678
+  },
+  {
+    "id": 46,
+    "recency": 122,
+    "frequency": 38,
+    "monetary": 37655
+  },
+  {
+    "id": 47,
+    "recency": 23,
+    "frequency": 38,
+    "monetary": 9120
+  },
+  {
+    "id": 48,
+    "recency": 146,
+    "frequency": 1,
+    "monetary": 37024
+  },
+  {
+    "id": 49,
+    "recency": 279,
+    "frequency": 25,
+    "monetary": 32990
+  },
+  {
+    "id": 50,
+    "recency": 173,
+    "frequency": 38,
+    "monetary": 3960
+  },
+  {
+    "id": 51,
+    "recency": 50,
+    "frequency": 31,
+    "monetary": 12040
+  },
+  {
+    "id": 52,
+    "recency": 232,
+    "frequency": 50,
+    "monetary": 32390
+  },
+  {
+    "id": 53,
+    "recency": 247,
+    "frequency": 21,
+    "monetary": 27301
+  },
+  {
+    "id": 54,
+    "recency": 275,
+    "frequency": 35,
+    "monetary": 3866
+  },
+  {
+    "id": 55,
+    "recency": 304,
+    "frequency": 15,
+    "monetary": 7818
+  },
+  {
+    "id": 56,
+    "recency": 101,
+    "frequency": 11,
+    "monetary": 42734
+  },
+  {
+    "id": 57,
+    "recency": 160,
+    "frequency": 8,
+    "monetary": 22399
+  },
+  {
+    "id": 58,
+    "recency": 364,
+    "frequency": 32,
+    "monetary": 19999
+  },
+  {
+    "id": 59,
+    "recency": 100,
+    "frequency": 18,
+    "monetary": 47245
+  },
+  {
+    "id": 60,
+    "recency": 365,
+    "frequency": 44,
+    "monetary": 47361
+  },
+  {
+    "id": 61,
+    "recency": 68,
+    "frequency": 46,
+    "monetary": 40218
+  },
+  {
+    "id": 62,
+    "recency": 17,
+    "frequency": 26,
+    "monetary": 14828
+  },
+  {
+    "id": 63,
+    "recency": 311,
+    "frequency": 17,
+    "monetary": 39597
+  },
+  {
+    "id": 64,
+    "recency": 42,
+    "frequency": 39,
+    "monetary": 26056
+  },
+  {
+    "id": 65,
+    "recency": 78,
+    "frequency": 48,
+    "monetary": 11821
+  },
+  {
+    "id": 66,
+    "recency": 332,
+    "frequency": 41,
+    "monetary": 15957
+  },
+  {
+    "id": 67,
+    "recency": 113,
+    "frequency": 10,
+    "monetary": 36468
+  },
+  {
+    "id": 68,
+    "recency": 13,
+    "frequency": 25,
+    "monetary": 3493
+  },
+  {
+    "id": 69,
+    "recency": 174,
+    "frequency": 44,
+    "monetary": 14207
+  },
+  {
+    "id": 70,
+    "recency": 75,
+    "frequency": 45,
+    "monetary": 16282
+  },
+  {
+    "id": 71,
+    "recency": 228,
+    "frequency": 18,
+    "monetary": 35277
+  },
+  {
+    "id": 72,
+    "recency": 17,
+    "frequency": 5,
+    "monetary": 5046
+  },
+  {
+    "id": 73,
+    "recency": 258,
+    "frequency": 23,
+    "monetary": 31092
+  },
+  {
+    "id": 74,
+    "recency": 364,
+    "frequency": 17,
+    "monetary": 8632
+  },
+  {
+    "id": 75,
+    "recency": 214,
+    "frequency": 34,
+    "monetary": 125
+  },
+  {
+    "id": 76,
+    "recency": 61,
+    "frequency": 48,
+    "monetary": 41124
+  },
+  {
+    "id": 77,
+    "recency": 29,
+    "frequency": 25,
+    "monetary": 2602
+  },
+  {
+    "id": 78,
+    "recency": 125,
+    "frequency": 15,
+    "monetary": 29063
+  },
+  {
+    "id": 79,
+    "recency": 302,
+    "frequency": 22,
+    "monetary": 4804
+  },
+  {
+    "id": 80,
+    "recency": 150,
+    "frequency": 49,
+    "monetary": 23741
+  },
+  {
+    "id": 81,
+    "recency": 48,
+    "frequency": 33,
+    "monetary": 14191
+  },
+  {
+    "id": 82,
+    "recency": 344,
+    "frequency": 41,
+    "monetary": 17168
+  },
+  {
+    "id": 83,
+    "recency": 278,
+    "frequency": 40,
+    "monetary": 34591
+  },
+  {
+    "id": 84,
+    "recency": 229,
+    "frequency": 13,
+    "monetary": 11491
+  },
+  {
+    "id": 85,
+    "recency": 138,
+    "frequency": 1,
+    "monetary": 45082
+  },
+  {
+    "id": 86,
+    "recency": 353,
+    "frequency": 45,
+    "monetary": 38140
+  },
+  {
+    "id": 87,
+    "recency": 326,
+    "frequency": 7,
+    "monetary": 25338
+  },
+  {
+    "id": 88,
+    "recency": 227,
+    "frequency": 20,
+    "monetary": 9474
+  },
+  {
+    "id": 89,
+    "recency": 287,
+    "frequency": 9,
+    "monetary": 34784
+  },
+  {
+    "id": 90,
+    "recency": 154,
+    "frequency": 13,
+    "monetary": 33829
+  },
+  {
+    "id": 91,
+    "recency": 84,
+    "frequency": 43,
+    "monetary": 49048
+  },
+  {
+    "id": 92,
+    "recency": 239,
+    "frequency": 30,
+    "monetary": 19492
+  },
+  {
+    "id": 93,
+    "recency": 252,
+    "frequency": 5,
+    "monetary": 47428
+  },
+  {
+    "id": 94,
+    "recency": 317,
+    "frequency": 50,
+    "monetary": 15943
+  },
+  {
+    "id": 95,
+    "recency": 308,
+    "frequency": 4,
+    "monetary": 28235
+  },
+  {
+    "id": 96,
+    "recency": 207,
+    "frequency": 47,
+    "monetary": 36268
+  },
+  {
+    "id": 97,
+    "recency": 248,
+    "frequency": 17,
+    "monetary": 29306
+  },
+  {
+    "id": 98,
+    "recency": 319,
+    "frequency": 11,
+    "monetary": 48526
+  },
+  {
+    "id": 99,
+    "recency": 215,
+    "frequency": 10,
+    "monetary": 16337
+  },
+  {
+    "id": 100,
+    "recency": 352,
+    "frequency": 32,
+    "monetary": 12981
+  },
+  {
+    "id": 101,
+    "recency": 334,
+    "frequency": 2,
+    "monetary": 20483
+  },
+  {
+    "id": 102,
+    "recency": 78,
+    "frequency": 15,
+    "monetary": 43142
+  },
+  {
+    "id": 103,
+    "recency": 111,
+    "frequency": 15,
+    "monetary": 15214
+  },
+  {
+    "id": 104,
+    "recency": 86,
+    "frequency": 3,
+    "monetary": 24284
+  },
+  {
+    "id": 105,
+    "recency": 191,
+    "frequency": 46,
+    "monetary": 21268
+  },
+  {
+    "id": 106,
+    "recency": 312,
+    "frequency": 13,
+    "monetary": 27940
+  },
+  {
+    "id": 107,
+    "recency": 279,
+    "frequency": 6,
+    "monetary": 21899
+  },
+  {
+    "id": 108,
+    "recency": 341,
+    "frequency": 34,
+    "monetary": 10259
+  },
+  {
+    "id": 109,
+    "recency": 198,
+    "frequency": 44,
+    "monetary": 9056
+  },
+  {
+    "id": 110,
+    "recency": 291,
+    "frequency": 7,
+    "monetary": 27206
+  },
+  {
+    "id": 111,
+    "recency": 25,
+    "frequency": 12,
+    "monetary": 43164
+  },
+  {
+    "id": 112,
+    "recency": 137,
+    "frequency": 40,
+    "monetary": 14426
+  },
+  {
+    "id": 113,
+    "recency": 198,
+    "frequency": 13,
+    "monetary": 2567
+  },
+  {
+    "id": 114,
+    "recency": 108,
+    "frequency": 5,
+    "monetary": 1023
+  },
+  {
+    "id": 115,
+    "recency": 67,
+    "frequency": 16,
+    "monetary": 14430
+  },
+  {
+    "id": 116,
+    "recency": 335,
+    "frequency": 3,
+    "monetary": 5040
+  },
+  {
+    "id": 117,
+    "recency": 77,
+    "frequency": 40,
+    "monetary": 33421
+  },
+  {
+    "id": 118,
+    "recency": 45,
+    "frequency": 26,
+    "monetary": 25425
+  },
+  {
+    "id": 119,
+    "recency": 230,
+    "frequency": 41,
+    "monetary": 27240
+  },
+  {
+    "id": 120,
+    "recency": 16,
+    "frequency": 50,
+    "monetary": 12241
+  },
+  {
+    "id": 121,
+    "recency": 80,
+    "frequency": 29,
+    "monetary": 47947
+  },
+  {
+    "id": 122,
+    "recency": 249,
+    "frequency": 36,
+    "monetary": 8420
+  },
+  {
+    "id": 123,
+    "recency": 208,
+    "frequency": 11,
+    "monetary": 18298
+  },
+  {
+    "id": 124,
+    "recency": 31,
+    "frequency": 40,
+    "monetary": 4914
+  },
+  {
+    "id": 125,
+    "recency": 11,
+    "frequency": 41,
+    "monetary": 33400
+  },
+  {
+    "id": 126,
+    "recency": 158,
+    "frequency": 2,
+    "monetary": 19177
+  },
+  {
+    "id": 127,
+    "recency": 194,
+    "frequency": 48,
+    "monetary": 26062
+  },
+  {
+    "id": 128,
+    "recency": 36,
+    "frequency": 50,
+    "monetary": 24192
+  },
+  {
+    "id": 129,
+    "recency": 159,
+    "frequency": 34,
+    "monetary": 28214
+  },
+  {
+    "id": 130,
+    "recency": 25,
+    "frequency": 22,
+    "monetary": 49105
+  },
+  {
+    "id": 131,
+    "recency": 24,
+    "frequency": 22,
+    "monetary": 37105
+  },
+  {
+    "id": 132,
+    "recency": 312,
+    "frequency": 5,
+    "monetary": 13668
+  },
+  {
+    "id": 133,
+    "recency": 123,
+    "frequency": 4,
+    "monetary": 130
+  },
+  {
+    "id": 134,
+    "recency": 153,
+    "frequency": 14,
+    "monetary": 30468
+  },
+  {
+    "id": 135,
+    "recency": 285,
+    "frequency": 49,
+    "monetary": 29421
+  },
+  {
+    "id": 136,
+    "recency": 262,
+    "frequency": 25,
+    "monetary": 14530
+  },
+  {
+    "id": 137,
+    "recency": 55,
+    "frequency": 11,
+    "monetary": 30324
+  },
+  {
+    "id": 138,
+    "recency": 124,
+    "frequency": 15,
+    "monetary": 40874
+  },
+  {
+    "id": 139,
+    "recency": 175,
+    "frequency": 49,
+    "monetary": 3468
+  },
+  {
+    "id": 140,
+    "recency": 228,
+    "frequency": 36,
+    "monetary": 19498
+  },
+  {
+    "id": 141,
+    "recency": 202,
+    "frequency": 6,
+    "monetary": 33482
+  },
+  {
+    "id": 142,
+    "recency": 201,
+    "frequency": 8,
+    "monetary": 46758
+  },
+  {
+    "id": 143,
+    "recency": 155,
+    "frequency": 30,
+    "monetary": 3378
+  },
+  {
+    "id": 144,
+    "recency": 85,
+    "frequency": 13,
+    "monetary": 29852
+  },
+  {
+    "id": 145,
+    "recency": 214,
+    "frequency": 15,
+    "monetary": 44009
+  },
+  {
+    "id": 146,
+    "recency": 12,
+    "frequency": 38,
+    "monetary": 33656
+  },
+  {
+    "id": 147,
+    "recency": 301,
+    "frequency": 14,
+    "monetary": 8555
+  },
+  {
+    "id": 148,
+    "recency": 44,
+    "frequency": 32,
+    "monetary": 45119
+  },
+  {
+    "id": 149,
+    "recency": 57,
+    "frequency": 4,
+    "monetary": 4695
+  },
+  {
+    "id": 150,
+    "recency": 53,
+    "frequency": 25,
+    "monetary": 2741
+  }
+]
