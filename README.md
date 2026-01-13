@@ -54,3 +54,6 @@ Veriler `scripts/generateData.ts` dosyası ile otomatik üretilmiştir. Üretile
 
 ```bash
 node scripts/generateData.ts
+```
+
+Başka yada yeni bir veriseti oluşturmak isterseniz yukarıda ki script kodunu terminalde çalıştırabilirsiniz.
